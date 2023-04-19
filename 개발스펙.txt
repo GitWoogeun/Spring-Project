@@ -1,0 +1,9 @@
+Spring-Project 개발 스펙
+1. 개발언어      : Java
+2. 프레임워크    : Spring
+3. DB	         : Oracle 11g
+4. Java -Version : JDK 1.8
+5. 형상관리      : Git & GitHub
+6. Develop Tool  : Eclipse
+7. DB Tool       : OracleDeveloper
+8. Help          : Open-API ChatGPT
